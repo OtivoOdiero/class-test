@@ -1,4 +1,3 @@
-try {
 node {
     def app
 
@@ -22,4 +21,5 @@ node {
 
 
 
+}
 }
